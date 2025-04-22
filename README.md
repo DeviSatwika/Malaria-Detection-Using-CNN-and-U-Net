@@ -13,7 +13,7 @@ PROJECT ASSOCIATES:
    
 3. SASIDHAR REDDY PADALA (21K61A1447)
    
-   mail-id:
+   mail-id: sasidharreddy9669@gmail.com
    
 5. SHAIK BASHEER (22K65A1405)
    
