@@ -1,15 +1,26 @@
 PROJECT TITLE: MALARIA DETECTION USING U-NET DEEP LEARNING MODEL
+
 COLLEGE: SASI INSTITUTE OF TECHNOLOGY AND ENGINEERING
+
 This is our B.Tech Final Year Project.
+
 We worked on this project under the Guidance of DR. T. VENKATAKRISHNAMOORTHY, Professor.
+
 PROJECT ASSOCIATES:
 1. DEVI SATWIKA KURELLA (21K61A1434)
+   
    mail-id: devisatwika568@gmail.com
-2. SASIDHAR REDDY PADALA (21K61A1447)
-   mail-id: 
-3. SHAIK BASHEER (22K65A1405)
+   
+3. SASIDHAR REDDY PADALA (21K61A1447)
+   
+   mail-id:
+   
+5. SHAIK BASHEER (22K65A1405)
+   
    mail-id: sk.basheerudden@gmail.com
-4. MEGHANA RANI KARRI (21K61A1427)
+   
+7. MEGHANA RANI KARRI (21K61A1427)
+   
    mail-id: meghanareddykarri4@gmail.com
 
    
