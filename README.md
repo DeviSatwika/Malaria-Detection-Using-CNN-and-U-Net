@@ -1,1 +1,1 @@
-# Malaria-Detection-Using-CNN
+# Malaria-Detection-Using-CNN-and-U-Net
